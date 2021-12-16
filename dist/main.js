@@ -5720,7 +5720,7 @@ var $author$project$Main$footerRow = $author$project$Main$rowDiv(
 			$elm$html$Html$a,
 			_List_fromArray(
 				[
-					$elm$html$Html$Attributes$href('https://github.com/mgkoning/advent-of-code-2021')
+					$elm$html$Html$Attributes$href('https://github.com/mgkoning/advent-of-elm-2021')
 				]),
 			_List_fromArray(
 				[

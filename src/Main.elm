@@ -70,7 +70,7 @@ explanationRow = rowDiv [ p [] [text "Choose a day to solve, paste the input and
 footerRow : Html Msg
 footerRow = rowDiv
   [text "Source at "
-  , a [ href "https://github.com/mgkoning/advent-of-code-2021"] [text "Github"]
+  , a [ href "https://github.com/mgkoning/advent-of-elm-2021"] [text "Github"]
   ]
 
 rowDiv: List (Html Msg) -> Html Msg
